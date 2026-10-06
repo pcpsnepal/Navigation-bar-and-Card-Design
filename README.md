@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # helloLearn
 
 helloLearn is a simple online learning website designed to help students explore programming and web development courses.
@@ -48,3 +49,7 @@ helloLearn/
 1. Open the project folder in Visual Studio Code.
 2. Open `index.html`.
 3. Run the website using Live Server.
+=======
+# Navigation-bar-and-Card-Design
+This is repositories Assignment
+>>>>>>> 9095c6002f257878cd505e6db680bd9d438ac504
